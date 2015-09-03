@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<className>org.design.pattern.factory.abstractt.SummerSkinFactory</className>
+</config>
