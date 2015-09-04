@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>  
+    <document>  
+        <type>far</type>  
+        <className>org.design.pattern.prototype.FAR</className>  
+    </document>  
+    <document>  
+        <type>srs</type>  
+        <className>org.design.pattern.prototype.SRS</className>  
+    </document>  
+</config> 
